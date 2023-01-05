@@ -8,7 +8,7 @@ void Menu()
 	int choice;
 	do 
 	{
-		cout << "0. Play\n1. Settings\n2. creits\n3. exit\n\n";
+		cout << "0. Play\n1. Settings\n2. credits\n3. exit\n\n";
 		cin >> choice;
 		switch (choice)
 		{
